@@ -1,4 +1,3 @@
-import './style.css'
 import 'react'
 
 export default props => (
